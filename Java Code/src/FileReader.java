@@ -22,9 +22,9 @@ public class FileReader {
     public String fileReader(String previousCharacters, int charParse) {
         String character = previousCharacters;
         if(sc.hasNext()) {
-            while (character.length() <= charParse) {
-                character += sc.next();     //get the words until there is more or equal to 7 characters
-                if (sc.hasNext()) {
+            while (character.length() <= charParse) {                       //get the words until there is more or equal to 7 characters never less.
+                character += sc.next();
+                if (sc.hasNext()) {                                         //adds and blank space if there is anything after the element.
                     character += " ";
                 }
             }
