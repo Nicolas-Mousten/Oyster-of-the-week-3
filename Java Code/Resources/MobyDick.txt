@@ -1,3 +1,9 @@
 Hi this is my test file.
 It's purpose is to test my 7 file Reader.
 My name is Nicolas, and this is my code!
+
+
+At være avissælger i Sverige er opbygget ved, at man får et område tildelt, hvor man så går fra dør til dør og banker på for at sælge avisen.
+Man er derfor selv ansvarlig for at få opbygget en fast kundekreds.
+Det har været med til at jeg har mødt en masse forskellige mennesker og har skulle skabe en god kundekontakt og kommunikation,
+for at fastholde kunderne. Man lærer at håndtere forskellige typer af personer, samt forskellige situationer som kan opstå som dørsælger.
